@@ -1,0 +1,44 @@
+
+`squid:S1192€"HDefine a constant instead of duplicating this literal "success" 5 times.(ùØ
+dsquid:S1192"MDefine a constant instead of duplicating this literal "E:\\upload\\" 3 times.(ìÅ¢–
+xsquid:S1488k"\Immediately return this expression instead of assigning it to the temporary variable "json".(ø»ËÄıÿÿÿÿ
+esquid:UselessImportCheck"ARemove this unused import 'org.springframework.http.HttpRequest'.(ÌÖÁÛ
+Usquid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(óô–
+Usquid:S3752%">Add a "method" parameter to this "@RequestMapping" annotation.(ü´ù¡
+Zsquid:S37520">Add a "method" parameter to this "@RequestMapping" annotation.(˜Íõıÿÿÿÿ
+Zsquid:S37527">Add a "method" parameter to this "@RequestMapping" annotation.(İ’¿ûÿÿÿÿ
+Zsquid:S3752>">Add a "method" parameter to this "@RequestMapping" annotation.(À¨ºûÿÿÿÿ
+Tsquid:S3752E">Add a "method" parameter to this "@RequestMapping" annotation.(÷ö·{
+Tsquid:S3752L">Add a "method" parameter to this "@RequestMapping" annotation.(³”¦*
+Usquid:S3752S">Add a "method" parameter to this "@RequestMapping" annotation.(¾˜›–
+Tsquid:S3752Z">Add a "method" parameter to this "@RequestMapping" annotation.(Ñ¤!
+Zsquid:S3752c">Add a "method" parameter to this "@RequestMapping" annotation.(÷ÒæØüÿÿÿÿ
+Zsquid:S3752n">Add a "method" parameter to this "@RequestMapping" annotation.(¸Ã­óÿÿÿÿÿ
+Zsquid:S3752u">Add a "method" parameter to this "@RequestMapping" annotation.(Ì‰ıÑıÿÿÿÿ
+Zsquid:S3752{">Add a "method" parameter to this "@RequestMapping" annotation.(¨şÄÕûÿÿÿÿ
+[squid:S3752‚">Add a "method" parameter to this "@RequestMapping" annotation.(¸Úí¸ıÿÿÿÿ
+Vsquid:S3752‰">Add a "method" parameter to this "@RequestMapping" annotation.(µÈ‘Ô
+Vsquid:S3752”">Add a "method" parameter to this "@RequestMapping" annotation.(© ÆÆ
+[squid:S3752¡">Add a "method" parameter to this "@RequestMapping" annotation.(¥Ä§¨üÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+O
+squid:S106)"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+O
+squid:S1064"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+O
+squid:S106;"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+O
+squid:S106B"9Replace this use of System.out or System.err by a logger.(ù˜ˆ
+T
+squid:S106I"9Replace this use of System.out or System.err by a logger.(¸Ä ‘ûÿÿÿÿ
+O
+squid:S106P"9Replace this use of System.out or System.err by a logger.(Ø¼¢ƒ
+O
+squid:S106W"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+O
+squid:S106X"9Replace this use of System.out or System.err by a logger.(ôÌ¿ò
+½%squid:RedundantThrowsDeclarationCheck]"‹Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonProcessingException', as it cannot be thrown from method's body.(Ãúº×
+P
+squid:S106£"9Replace this use of System.out or System.err by a logger.(ƒš†
+csquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(©Â“—

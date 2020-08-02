@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="userDao" class="com.itcast.dao.impl.UserDaoImpl" >
+        <!--注入普通数据类型-->
+        <property name="name" value="张三"></property>
+        <property name="age" value="23"></property>
+    </bean>
+
+    <!--<bean id="userService" class="com.itcast.service.impl.UserServiceImpl">-->
+        <!--&lt;!&ndash;通过userserviceimpl中的set方法把把userDao注入userserviceimpl&ndash;&gt;-->
+        <!--<property name="userDao" ref="userDao"></property>-->
+    <!--</bean>-->
+    <!--p命名空间方式引入属性，注入dao-->
+    <bean id="userService" class="com.itcast.service.impl.UserServiceImpl" p:userDao-ref="userDao"></bean>
+</beans>
